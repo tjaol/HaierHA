@@ -1,0 +1,10 @@
+"""Constants for the Haier integration."""
+
+DOMAIN = "haier"
+TYPE_OAUTH2 = "oauth2"
+TYPE_LOCAL = "local"
+OAUTH2_AUTHORIZE = "https://uhome-sea.haieriot.net/alexaoauth/auth"
+OAUTH2_TOKEN = "https://uhome-sea.haieriot.net/alexaoauth/token"
+OAUTH2_CLIENTID = "MB-TGWIFIDJXM946-0000"
+OAUTH2_CLIENTSECRET = "08ce72f7c82f1a999cb53fe983acfe74"
+SCOPE = "BLUENEER"
